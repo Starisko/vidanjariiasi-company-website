@@ -1,0 +1,12 @@
+ARHIVA GATA PENTRU HOSTING
+
+1. Intra in public_html/vidanjariiasi.
+2. Pastreaza folderele .well-known si cgi-bin.
+3. Pastreaza arhiva veche "backup site.zip".
+4. Sterge fisierele vechi index.html, assets.css, robots.txt, sitemap.xml si folderul images.
+5. Incarca arhiva SITE-NOU-VIDANJARI-IASI.zip in acest folder.
+6. Selecteaza arhiva si apasa Extract.
+7. Verifica sa vezi index.html direct in folderul vidanjariiasi, nu intr-un subfolder.
+8. Sterge cache-ul browserului sau apasa Ctrl+F5.
+
+Nu sterge .well-known si cgi-bin.

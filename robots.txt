@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vidanjariiasi.mihot.ro/sitemap.xml
